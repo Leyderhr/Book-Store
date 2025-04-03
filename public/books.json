@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "genre": "Fábula",
+      "cover": "/img/principito.webp",
+      "pages": 97
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Distopía",
+      "cover": "/img/1984.webp",
+      "pages": 352
+    },
+    {
+      "id": 3,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "genre": "Realismo mágico",
+      "cover": "/img/cienAsoledad.webp",
+      "pages": 496
+    },
+    {
+      "id": 4,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "year": 1605,
+      "genre": "Novela",
+      "cover": "/img/donQDLmancha.webp",
+      "pages": 1345
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "genre": "Fantasía",
+      "cover": "/img/HP.webp",
+      "pages": 264
+    }
+  ]
+  
