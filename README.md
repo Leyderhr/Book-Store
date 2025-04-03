@@ -1,8 +1,10 @@
 # Proyecto Vue.js: Sistema de Gestión de Libros
 
 Este proyecto es una aplicación desarrollada con Vue.js que permite la gestión, filtrado y visualización de libros. Este documento explica cómo instalar, correr el proyecto, la estructura del código, las funcionalidades disponibles, y más.
-[Proyeco desplegado]([Descárgalo aquí](https://nodejs.org/)
-**NOTA:** Aunque el proyecto está desplegado, para una mejor experiencia te recomiendo clonarte el repositorio, ya que la página del desplegue puede generar problemas de funcionamiento en algunos navegadores en version mobile.
+
+[Proyeco Desplegado](https://book-store-cd3d0.web.app/)
+
+**NOTA: Aunque el proyecto está desplegado, para una mejor experiencia te recomiendo clonarte el repositorio, ya que la página del despliegue puede generar problemas de funcionamiento en algunos navegadores en version mobile.**
 
 ---
 
