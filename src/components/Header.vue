@@ -139,6 +139,7 @@ const popoverContent = computed(() => {
 
 .toggle-sidebar-btn {
   display: none;
+  margin: 0 10px;
 }
 
 .reading-list-sidebar {
@@ -188,6 +189,7 @@ h1 {
 
 .navbar {
   z-index: 1000;
+  flex-wrap: nowrap;
   background-color: #0b5ed7;
 }
 
