@@ -206,6 +206,6 @@ h1 {
 input,
 select {
   width: 10%;
-  margin: 0 20px;
+  margin: 0 10px;
 }
 </style>
